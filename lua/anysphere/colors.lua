@@ -1,7 +1,7 @@
 local colors = {
 	-- Base colors
 	bg = "#181818", -- Background
-	fg = "#c4c4cc", -- Default foreground text
+	fg = "#ff0000", -- Default foreground text
 	border = "#383838", -- Borders and lines
 	highlight = "#3c3b3c", -- Highlight color
 	dark_gray = "#3E3E3E",
