@@ -28,6 +28,10 @@ local common = {
 	FloatBorder = { fg = colors.border },
 
 	-- Syntax highlighting
+	Delimiter = { fg = colors.fg },
+	Operator = { fg = colors.fg },
+	Title = { fg = colors.fg },
+	PreProc = { fg = colors.fg },
 	Keyword = { fg = colors.keyword, italic = true },
 	Function = { fg = colors.func, bold = true },
 	Identifier = { fg = colors.variable },
